@@ -1,8 +1,7 @@
 body{
-	background: red;
-<<<<<<< HEAD
+	background: cyan;
 	margin: 20px;
-=======
 	paddin: 30px;
->>>>>>> feature-c
+	font-size: 50pt;
+
 }
